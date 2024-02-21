@@ -1,2 +1,2 @@
-; duplicate identifier, no need to take off points
+; duplicate identifier
 (lambda (x x) x)
